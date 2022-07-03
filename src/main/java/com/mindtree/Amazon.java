@@ -12,6 +12,7 @@ public class Amazon {
 	public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
+		//this is updated for testing
 		System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
